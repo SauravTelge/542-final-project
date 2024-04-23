@@ -1,0 +1,7 @@
+DepthEstimation/checkpoints
+DepthEstimation/data
+DepthEstimation/results
+DepthEstimation/tensor_logs
+__pycache__
+*.pyc
+Optical_Flow/data
